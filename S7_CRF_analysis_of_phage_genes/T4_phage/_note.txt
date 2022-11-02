@@ -1,0 +1,5 @@
+The gene lcl|NC_000866.4_cds_NP_049709.1_95.txt contains characters other than ATCG.
+The gene lcl|NC_000866.4_cds_NP_049836.2_225.txt contains characters other than ATCG.
+
+
+Therefore, delete the two files.

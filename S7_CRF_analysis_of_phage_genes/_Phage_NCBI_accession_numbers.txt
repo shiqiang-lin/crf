@@ -1,0 +1,48 @@
+
+
+Enterobacteria phage T1, complete genome
+48,836 bp linear DNA
+Accession: NC_005833.1 GI: 45686283
+
+
+Enterobacteria phage T2 DNA, complete genome
+163,826 bp linear DNA
+Accession: AP018813.1 GI: 1843987535
+
+
+Enterobacteria phage T3, complete genome
+38,209 bp linear DNA
+Accession: NC_047864.1 GI: 1842005713
+
+
+Enterobacteria phage T4, complete genome
+168,903 bp linear DNA
+Accession: NC_000866.4 GI: 29366675
+
+
+Enterobacteria phage T5, complete genome
+121,750 bp linear DNA
+Accession: NC_005859.1 GI: 46401737
+
+
+Enterobacteria phage T6 DNA, complete genome
+168,697 bp linear DNA
+Accession: NC_054907.1 GI: 2046344462
+
+
+Enterobacteria phage T7, complete genome
+39,937 bp linear DNA
+Accession: NC_001604.1 GI: 9627425
+
+
+
+Enterobacteria phage lambda, complete genome
+48,502 bp linear DNA
+Accession: NC_001416.1 GI: 9626243
+
+
+
+
+
+
+

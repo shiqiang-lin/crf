@@ -1,0 +1,17 @@
+
+1)Links for downloading the genome fasta files
+
+Mycobacterium tuberculosis H37Rv
+https://www.ncbi.nlm.nih.gov/nuccore/NC_000962.3
+
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome
+https://www.ncbi.nlm.nih.gov/nuccore/NC_007795.1
+
+Bacillus subtilis subsp. subtilis str. 168
+https://www.ncbi.nlm.nih.gov/nuccore/NC_000964.3
+
+2) The current CRF model is built for E. coli, therefore, some genes from other bacteria may not be suitable for analysis and need to be deleted for the analyze_empirical_features.py to run.
+
+I have prepared the gene_files for all four bacteria. Due to the folder/file size limit of the GitHub, I have zipped the gene_files folder as gene_files.zip for each bacterium. If you use my 
+prepared gene_files, you may need to unzip it first. Thank you!
+

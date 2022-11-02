@@ -1,0 +1,1 @@
+Run the print_dictionaries.py to print the dictionaries to screen.

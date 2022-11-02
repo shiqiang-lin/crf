@@ -1,0 +1,4 @@
+
+The protein information file proteins_167_161521.csv here is modified according to the running results of 1_find_gene_id_duplications.py, I.e., manually adding '-2'，or '-3' to the second or third duplicated gene names.
+
+The original The protein information file can be downloaded using the link https://www.ncbi.nlm.nih.gov/genome/browse/#!/proteins/167/161521%7CEscherichia%20coli%20str.%20K-12%20substr.%20MG1655/chromosome/.
